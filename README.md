@@ -1,55 +1,53 @@
 # Hi there, I'm Negasa Reta 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Negasa+Reta;AI+%26+Software+Developer;Machine+Learning+Enthusiast;Python+%7C+Streamlit+%7C+SQLite;Building+AI+Agents+%26+Banking+Solutions;Let's+Innovate+Together!)](https://git.io/typing-svg)
-
-
-## 📈 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NegasaReta&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NegasaReta&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko)](https://git.io/streak-stats)
-🚀 **AI & Software Developer | Data Enthusiast | Problem Solver**
-
-I’m passionate about building intelligent systems, solving complex problems, and creating tools that make a real impact.  
-I love working with **Python, Machine Learning, Web Development**, and **Database-driven applications**.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Spring+Boot;AI+%26+Software+Developer;Machine+Learning+Enthusiast;Python+%7C+Java+%7C+Streamlit;Building+AI+Agents+%26+Banking+Solutions;Let's+Innovate+Together!)](https://git.io/typing-svg)
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** Python, JavaScript, C++, SQL
-- **Frameworks & Tools:** Streamlit, Flask, FastAPI, React, TailwindCSS
-- **Databases:** SQLite, MySQL, PostgreSQL
-- **AI/ML:** TensorFlow, Scikit-learn, Gemini API, OpenAI API
-- **Other:** Git, GitHub Actions, Docker
+## 🚀 About Me  
+**Backend Developer (Spring Boot)** | **AI Developer** | **Machine Learning Enthusiast**  
+I build intelligent systems, scalable backend services, and AI-powered solutions that solve real-world problems.
 
 ---
 
-## 📌 Featured Projects
+## 🛠 Tech Stack  
+**Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
+**Frameworks:** Spring Boot, Streamlit, Flask, FastAPI, React, TailwindCSS  
+**Databases:** SQLite, MySQL, PostgreSQL  
+**AI/ML:** TensorFlow, Scikit-learn, Gemini API, OpenAI API  
+**Tools:** Git, Docker, GitHub Actions  
+
+---
+
+## 📌 Featured Projects  
+
+### 🌍 Air Quality Prediction Model  
+🔗 [View Repository](https://github.com/edasaruhan/FTL_Ethiopia_ML2_Gr4)  
+Predicts air pollution levels (PM2.5, PM10, CO, NO2) using historical air quality & weather data.  
+**Impact:** Supports **SDG 3**, **SDG 11**, and **SDG 13** by improving public health and sustainable cities.  
+
+---
+
 ### 💬 Banking AI Agent  
-An intelligent banking assistant built with **Python, Streamlit, SQLite, and Gemini API** to assist **customers, staff, and admins** in managing accounts and generating analytical reports.  
-🔗 [View Project](https://github.com/NegasaReta/chatbots)
+🔗 [View Project](https://github.com/NegasaReta/chatbots)  
+AI assistant for customers, staff, and admins with **Python + Streamlit + SQLite + Gemini API**.  
 
 ### 🤖 Chatbot Collection  
-Multiple chatbot implementations for different use-cases, including **customer service bots** and **data-driven assistants**.  
-🔗 [View Project](https://github.com/NegasaReta/chatbots)
-
-### 📊 Data Analysis & Visualization Tools  
-Scripts and dashboards for data cleaning, analysis, and visualization using **Pandas**, **Matplotlib**, and **Seaborn**.
+🔗 [View Project](https://github.com/NegasaReta/chatbots)  
+Multiple bots for customer service and data-driven tasks.  
 
 ---
 
----
-
-## 🌱 Currently Learning
-- Advanced **AI Agent Design**
-- **System Integration** for banking solutions
-- **Cloud Deployment** with Docker & CI/CD
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NegasaReta&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NegasaReta&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko)](https://git.io/streak-stats)  
 
 ---
 
-## 📫 Get in Touch
-- **Email:** negasareta@example.com  
-- **LinkedIn:** [linkedin.com/in/negasareta](https://linkedin.com/in/negasareta)  
-- **Portfolio:** *Coming Soon*
+## 📫 Contact  
+📧 **Email:** negasareta@example.com  
+🔗 **LinkedIn:** [linkedin.com/in/negasareta](https://linkedin.com/in/negasareta)  
 
 ---
 
-💡 *"The best way to predict the future is to create it."*
+💡 *"The best way to predict the future is to create it."*  
