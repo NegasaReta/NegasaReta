@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko" 
+       alt="GitHub Streak" 
+       style="border: 2px solid #58A6FF; border-radius: 10px;" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko" 
+       alt="GitHub Streak" 
+       style="border: 2px solid #58A6FF; border-radius: 10px;" />
+</div>
+
+
 # Hi there, I'm Negasa Reta 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Spring+Boot;AI+%26+Software+Developer;Machine+Learning+Enthusiast;Python+%7C+Java+%7CJavaScript;Building+AI+Agents+%26+Banking+Solutions;Let's+Innovate+Together!)](https://git.io/typing-svg)
 
@@ -10,7 +22,6 @@
 I build intelligent systems, scalable backend services, and AI-powered solutions that solve real-world problems.
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko)](https://git.io/streak-stats)  
 
 ## 🛠 Tech Stack  
 **Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
@@ -54,3 +65,5 @@ Multiple bots for customer service and data-driven tasks.
 ---
 
 💡 *"The best way to predict the future is to create it."*  
+
+
