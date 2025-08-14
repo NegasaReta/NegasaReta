@@ -1,19 +1,15 @@
-<div align="center">
-  <img src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko" 
-       alt="GitHub Streak" 
-       style="border: 2px solid #58A6FF; border-radius: 10px;" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko" 
-       alt="GitHub Streak" 
-       style="border: 2px solid #58A6FF; border-radius: 10px;" />
-</div>
+
 
 
 # Hi there, I'm Negasa Reta 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Spring+Boot;AI+%26+Software+Developer;Machine+Learning+Enthusiast;Python+%7C+Java+%7CJavaScript;Building+AI+Agents+%26+Banking+Solutions;Let's+Innovate+Together!)](https://git.io/typing-svg)
 
-[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPwKO_smqOqduI5qWJuM8aA?sub_confirmation=1)
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCPwKO_smqOqduI5qWJuM8aA?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe">
+  </a>
+</div>
 
 ---
 
@@ -52,11 +48,16 @@ Multiple bots for customer service and data-driven tasks.
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NegasaReta&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NegasaReta&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko)](https://git.io/streak-stats)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NegasaReta&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-bottom:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegasaReta&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-bottom:10px;"/>
+  <img src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko" 
+       alt="GitHub Streak" 
+       style="border: 2px solid #58A6FF; border-radius: 10px;"/>
+</div>
 
 ---
+
 
 ## 📫 Contact  
 📧 **Email:** negareta83@gmail.com 
