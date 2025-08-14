@@ -1,5 +1,7 @@
 # Hi there, I'm Negasa Reta 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Spring+Boot;AI+%26+Software+Developer;Machine+Learning+Enthusiast;Python+%7C+Java+%7C+Streamlit;Building+AI+Agents+%26+Banking+Solutions;Let's+Innovate+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Spring+Boot;AI+%26+Software+Developer;Machine+Learning+Enthusiast;Python+%7C+Java+%7CJavaScript;Building+AI+Agents+%26+Banking+Solutions;Let's+Innovate+Together!)](https://git.io/typing-svg)
+
+[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPwKO_smqOqduI5qWJuM8aA?sub_confirmation=1)
 
 ---
 
@@ -12,9 +14,9 @@ I build intelligent systems, scalable backend services, and AI-powered solutions
 
 ## 🛠 Tech Stack  
 **Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
-**Frameworks:** Spring Boot, Streamlit, Flask, FastAPI, React, TailwindCSS  
-**Databases:** SQLite, MySQL, PostgreSQL  
-**AI/ML:** TensorFlow, Scikit-learn, Gemini API, OpenAI API  
+**Frameworks:** Spring Boot, Streamlit, Flask, FastAPI, RESTful API  
+**Databases:** SQLite, MySQL, PostgreSQL, ChromaDB, Redis 
+**AI/ML:** TensorFlow, Scikit-learn, Gemini API
 **Tools:** Git, Docker, GitHub Actions  
 
 ---
