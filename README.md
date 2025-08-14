@@ -1,5 +1,11 @@
 # Hi there, I'm Negasa Reta 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Negasa+Reta;AI+%26+Software+Developer;Machine+Learning+Enthusiast;Python+%7C+Streamlit+%7C+SQLite;Building+AI+Agents+%26+Banking+Solutions;Let's+Innovate+Together!)](https://git.io/typing-svg)
 
+
+## 📈 GitHub Stats & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NegasaReta&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NegasaReta&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko)](https://git.io/streak-stats)
 🚀 **AI & Software Developer | Data Enthusiast | Problem Solver**
 
 I’m passionate about building intelligent systems, solving complex problems, and creating tools that make a real impact.  
@@ -29,11 +35,6 @@ Multiple chatbot implementations for different use-cases, including **customer s
 Scripts and dashboards for data cleaning, analysis, and visualization using **Pandas**, **Matplotlib**, and **Seaborn**.
 
 ---
-
-## 📈 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NegasaReta&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NegasaReta&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko)](https://git.io/streak-stats)
 
 ---
 
