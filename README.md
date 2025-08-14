@@ -8,6 +8,7 @@
 I build intelligent systems, scalable backend services, and AI-powered solutions that solve real-world problems.
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko)](https://git.io/streak-stats)  
 
 ## 🛠 Tech Stack  
 **Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
@@ -45,8 +46,8 @@ Multiple bots for customer service and data-driven tasks.
 ---
 
 ## 📫 Contact  
-📧 **Email:** negasareta@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/negasareta](https://linkedin.com/in/negasareta)  
+📧 **Email:** negareta83@gmail.com 
+🔗 **LinkedIn:** [Negasa Reta](https://www.linkedin.com/in/negasa-reta-7448a9371/)  
 
 ---
 
