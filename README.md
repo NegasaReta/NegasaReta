@@ -48,12 +48,13 @@ Multiple bots for customer service and data-driven tasks.
 ---
 
 ## 📈 GitHub Stats  
-<div align="center">
+<div align="left">
+   <img src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko" 
+       alt="GitHub Streak" 
+       style="border: 2px solid #58A6FF; border-radius: 10px;"/><br>
   <img src="https://github-readme-stats.vercel.app/api?username=NegasaReta&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-bottom:10px;"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegasaReta&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-bottom:10px;"/><br>
-  <img src="https://github-readme-streak-stats-gamma-topaz.vercel.app?user=NegasaReta&theme=merko" 
-       alt="GitHub Streak" 
-       style="border: 2px solid #58A6FF; border-radius: 10px;"/>
+ 
 </div>
 
 ---
