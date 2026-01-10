@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me  
-**Backend Developer (Spring Boot)** | **AI Developer** | **Machine Learning Enthusiast**  
+**Backend Developer (Java: Spring Boot, Python: FastAPI)** | **AI Developer** | **Machine Learning Enthusiast**  
 I build intelligent systems, scalable backend services, and AI-powered solutions that solve real-world problems.
 
 ---
