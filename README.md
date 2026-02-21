@@ -17,13 +17,16 @@
 **Backend Developer (Java: Spring Boot, Python: FastAPI)** | **AI Developer** | **Machine Learning Enthusiast**  
 I build intelligent systems, scalable backend services, and AI-powered solutions that solve real-world problems.
 
+> 🔨 **Now building:** AI agents + backend systems for fintech/banking use cases.  
+> 🤝 **Open to:** Backend (Spring Boot/FastAPI) • AI/LLM app development • ML engineering collaborations.
+
 ---
 
 ## 🛠 Tech Stack  
 **Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
-**Frameworks:** Spring Boot, Streamlit, Flask, FastAPI, RESTful API  
-**Databases:** SQLite, MySQL, PostgreSQL, ChromaDB, Redis <br>
-**AI/ML:** TensorFlow, Scikit-learn, Gemini API
+**Frameworks:** Spring Boot, FastAPI, Flask, Streamlit, RESTful API  
+**Databases:** SQLite, MySQL, PostgreSQL, ChromaDB, Redis  
+**AI/ML:** TensorFlow, Scikit-learn, Gemini API  
 **Tools:** Git, Docker, GitHub Actions  
 
 ---
